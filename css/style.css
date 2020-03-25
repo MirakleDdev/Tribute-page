@@ -43,7 +43,7 @@ text-shadow: grey;
 }
 .img2{
     float: left;
-    width: 50%;
+    width: 70%;
     height: 400px;
     padding: 40px;
     border-radius: 150px;
@@ -51,7 +51,7 @@ text-shadow: grey;
 }
 .img3{
     float: right;
-    width: 50%;
+    width: 70%;
     height: 500px;
     padding: 40px;
     border-radius: 150px;
